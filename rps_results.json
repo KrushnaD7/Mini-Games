@@ -1,0 +1,17 @@
+[
+    {
+        "player": "Rock",
+        "computer": "Scissors",
+        "winner": "Player"
+    },
+    {
+        "player": "Paper",
+        "computer": "Scissors",
+        "winner": "Computer"
+    },
+    {
+        "player": "Scissors",
+        "computer": "Scissors",
+        "winner": "Tie"
+    }
+]
